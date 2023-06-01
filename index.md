@@ -1,4 +1,4 @@
-## Portfolio
+## Selected ML/AI projects
 
 ---
 
