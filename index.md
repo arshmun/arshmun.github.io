@@ -1,4 +1,4 @@
-## Selected AI, Machine Learning and Deep Learning Projects
+## Curated Machine Learning, Deep Learning and NLP Projects
 
 ---
 ### Diabetes Prediction using Random Forest and RNN-LSTM with CDC Survey Data
