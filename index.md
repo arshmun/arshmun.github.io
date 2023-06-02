@@ -2,9 +2,9 @@
 
 ---
 ### Diabetes Prediction using Random Forest and RNN-LSTM with CDC Survey Data
-The BRFSS is a health related telephone survey conducted anually by CDC. The dataset comprises responses from over 400,000 individuals focusing on various health-related risk factors. My goal was to predict whether an invidual has diabetes based on the responses and I built an entire end to end workflow to predict prevelance of diabetes in individuals using machine learning and deep learning techniques.
-
 [View Code in Google Colab](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)
+
+The BRFSS is a health related telephone survey conducted anually by CDC. The dataset comprises responses from over 400,000 individuals focusing on various health-related risk factors. My goal was to predict whether an invidual has diabetes based on the responses and I built an entire end to end workflow to predict prevelance of diabetes in individuals using machine learning and deep learning techniques.
 
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
