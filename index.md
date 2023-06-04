@@ -17,6 +17,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-relat
 
 <!--[![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)-->
 <!-- [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#) -->
+
 ---
 
 ### MyGPT: A Simple AI Chatbot with Custom Knowledge Base using OPEN AI's GPT 3.5 model -- [[View Code](https://colab.research.google.com/drive/1HVHzCoDj3gmLwTlzjJ3W8ovHOC5nVavi?usp=sharing)]
@@ -31,6 +32,17 @@ In this project, I developed a proof-of-concept AI chatbot capable of answering 
 
 ---
 
+### Face Detection, Image Segmentation, and Object Recognition Using Computer Vision Libraries and Frameworks -- [[View Code](https://colab.research.google.com/drive/19N4pqxoeemhHUxrX4mIcKXx-5cnulv-k?usp=sharing)]
+
+In this project, I leveraged popular computer vision tools, algorithms, and techniques to implement various tasks. These included face detection using the Haar cascade detector, image segmentation employing the R-CNN model, and object detection in images utilising both the default and tiny versions of YOLO.
+
+
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](#)
+[![](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
+
+---
 ### Sentiment Analysis, Text Classification, and Topic modelling using Natural Language Processing (NLP) techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
 
 In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
