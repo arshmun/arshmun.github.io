@@ -6,7 +6,6 @@
 The BRFSS is a health related telephone survey conducted anually by CDC. The dataset comprises responses from over 400,000 individuals focusing on various health-related risk factors. My goal was to predict whether an invidual has diabetes based on the responses and I built an entire end to end workflow to predict prevelance of diabetes in individuals using machine learning and deep learning techniques. 
 
 
-
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 [![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
@@ -18,4 +17,15 @@ The BRFSS is a health related telephone survey conducted anually by CDC. The dat
 
 <!--[![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)-->
 <!-- [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#) -->
+---
+
+### Sentiment Analysis, Text Classification and Topic modelling using Natural Language Processing (NLP) techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
+
+In this project, I explore some simple NLP techniques that can provide reasonable performance for sentiment anlaysis, text classification and topic modeling. Sentiment analysis was done on a collection of positive and negative movie reviews, the text classification was performed on a collection of text from different newsgroups and topic modelling was done on any two topics that can be choosen by the user.
+
+[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+
+
 ---
