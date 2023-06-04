@@ -6,14 +6,14 @@
 The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-related telephone survey conducted by the CDC. This dataset comprises responses from over 400,000 individuals, focusing on various health-related risk factors. My goal was to predict an individual's diabetes status based on these responses. I developed a comprehensive end-to-end workflow to estimate the prevalence of diabetes in individuals, utilizing both machine learning and deep learning techniques. 
 
 
-[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
-[![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
-[![](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](#)
-[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
-[![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)](#)
+[![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](#)
+[![](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](#)
+[![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
 
 <!--[![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)-->
 <!-- [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#) -->
@@ -23,14 +23,20 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-relat
 
 In this project, I developed a proof-of-concept AI chatbot capable of answering queries using a custom Knowledge Base provided by the user. While ChatGPT is impressive, it often delivers generic answers and struggles to pinpoint specifics when asked about a particular article, research paper, or textbook. My implementation attempts to address this issue by allowing users to input highly specific data, enabling the GPT model to provide answers based on this tailored information.
 
+[![](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/LangChain-Framework-yellowgreen?style=flat-square&logo=#3776AB)](#)
+[![](https://img.shields.io/badge/LlamaIndex-Framework-lightgrey?style=flat-square&logo=#3776AB)](#)
+
 ---
 
 ### Sentiment Analysis, Text Classification, and Topic modelling using Natural Language Processing (NLP) techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
 
 In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
 
-[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
 
 ---
