@@ -1,9 +1,9 @@
 ## Curated AI Projects (Machine Learning, Deep Learning, Computer Vision and NLP)
 
 ---
-### Diabetes Prediction using Random Forest and RNN-LSTM with CDC Survey Data -- [[View Code](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)]
+### Diabetes Prediction Using Random Forest and RNN-LSTM with CDC Survey Data -- [[View Code](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)]
 
-The BRFSS is a health related telephone survey conducted anually by CDC. The dataset comprises responses from over 400,000 individuals focusing on various health-related risk factors. My goal was to predict whether an invidual has diabetes based on the responses and I built an entire end to end workflow to predict prevelance of diabetes in individuals using machine learning and deep learning techniques. 
+The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-related telephone survey conducted by the CDC. This dataset comprises responses from over 400,000 individuals, focusing on various health-related risk factors. My goal was to predict an individual's diabetes status based on these responses. I developed a comprehensive end-to-end workflow to estimate the prevalence of diabetes in individuals, utilizing both machine learning and deep learning techniques. 
 
 
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
@@ -19,13 +19,18 @@ The BRFSS is a health related telephone survey conducted anually by CDC. The dat
 <!-- [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#) -->
 ---
 
-### Sentiment Analysis, Text Classification and Topic modelling using Natural Language Processing (NLP) techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
+### MyGPT: A Simple AI Chatbot with Custom Knowledge Base using OPEN AI's GPT 3.5 model -- [[View Code](https://colab.research.google.com/drive/1HVHzCoDj3gmLwTlzjJ3W8ovHOC5nVavi?usp=sharing)]
 
-In this project, I explore some simple NLP techniques that can provide reasonable performance for sentiment anlaysis, text classification and topic modeling. Sentiment analysis was done on a collection of positive and negative movie reviews, the text classification was performed on a collection of text from different newsgroups and topic modelling was done on any two topics that can be choosen by the user.
+In this project, I developed a proof-of-concept AI chatbot capable of answering queries using a custom Knowledge Base provided by the user. While ChatGPT is impressive, it often delivers generic answers and struggles to pinpoint specifics when asked about a particular article, research paper, or textbook. My implementation attempts to address this issue by allowing users to input highly specific data, enabling the GPT model to provide answers based on this tailored information.
+
+---
+
+### Sentiment Analysis, Text Classification, and Topic modelling using Natural Language Processing (NLP) techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
+
+In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
 
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
-
 
 ---
