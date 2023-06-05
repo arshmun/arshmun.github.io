@@ -20,7 +20,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-relat
 
 ---
 
-### MyGPT: A Simple AI Chatbot with Custom Knowledge Base using OPEN AI's GPT 3.5 model -- [[View Code](https://colab.research.google.com/drive/1HVHzCoDj3gmLwTlzjJ3W8ovHOC5nVavi?usp=sharing)]
+### MyGPT: A Simple AI Chatbot with Custom Knowledge Base Using OpenAI's GPT 3.5 model -- [[View Code](https://colab.research.google.com/drive/1HVHzCoDj3gmLwTlzjJ3W8ovHOC5nVavi?usp=sharing)]
 
 In this project, I developed a proof-of-concept AI chatbot capable of answering queries using a custom Knowledge Base provided by the user. While ChatGPT is impressive, it often delivers generic answers and struggles to pinpoint specifics when asked about a particular article, research paper, or textbook. My implementation attempts to address this issue by allowing users to input highly specific data, enabling the GPT model to provide answers based on this tailored information.
 
@@ -43,7 +43,7 @@ In this project, I leveraged popular computer vision tools, algorithms, and tech
 [![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
 
 ---
-### Sentiment Analysis, Text Classification, and Topic modelling using Natural Language Processing (NLP) techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
+### Sentiment Analysis, Text Classification, and Topic Modelling Using Natural Language Processing (NLP) Techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
 
 In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
 
