@@ -36,6 +36,9 @@ In this project, I developed a proof-of-concept AI chatbot capable of answering 
 
 In this project, I leveraged popular computer vision tools, algorithms, and techniques to implement various tasks. These included face detection using the Haar cascade detector, image segmentation employing the R-CNN model, and object detection in images utilising both the default and tiny versions of YOLO.
 
+<p align="center">
+  <img src="images/ImgReg.png?raw=true"/>
+</p>
 
 [![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](#)
