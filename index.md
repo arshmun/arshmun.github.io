@@ -56,11 +56,19 @@ This project involves the development of a sophisticated workflow that uses adva
 [![](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)](#)
 [![](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](#)
 [![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](#)
+
 ---
 
 ### Image Generation with Generative Adversarial Network (GAN) --  [[View Code](https://colab.research.google.com/drive/14XIIth9H1xNRdXDW5V20G9cmZQwRaFkv?usp=sharing)]
 
 In this project, I delved into the realm of Generative Adversarial Networks, utilising the CIFAR-10 dataset to train my models. I fine tuned and implemented both discriminator and generator components, and incorporated procedures to visualise the results. Post-training, I used the trained generator to produce a set of fabricated images, demonstrating the power of GANs.
+
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)](#)
+[![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](#)
+[![](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
 
 ---
 ### Sentiment Analysis, Text Classification, and Topic Modelling Using Natural Language Processing (NLP) Techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
