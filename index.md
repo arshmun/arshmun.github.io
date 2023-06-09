@@ -57,6 +57,12 @@ This project involves the development of a sophisticated workflow that uses adva
 [![](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](#)
 [![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](#)
 ---
+
+### Image Generation with Generative Adversarial Network (GAN) --  [[View Code](https://colab.research.google.com/drive/14XIIth9H1xNRdXDW5V20G9cmZQwRaFkv?usp=sharing)]
+
+In this project, I delved into the realm of Generative Adversarial Networks, utilising the CIFAR-10 dataset to train my models. I fine tuned and implemented both discriminator and generator components, and incorporated procedures to visualise the results. Post-training, I used the trained generator to produce a set of fabricated images, demonstrating the power of GANs.
+
+---
 ### Sentiment Analysis, Text Classification, and Topic Modelling Using Natural Language Processing (NLP) Techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
 
 In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
