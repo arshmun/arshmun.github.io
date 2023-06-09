@@ -46,6 +46,17 @@ In this project, I leveraged popular computer vision tools, algorithms, and tech
 [![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
 
 ---
+### Advanced Resume Optimisation Using Natural Language Processing and Machine Learning -- [[Request Code](mailto:amunif@outlook.com)]
+
+This project involves the development of a sophisticated workflow that uses advanced NLP and machine learning techniques to optimise resumes, making them more closely align with job descriptions. The solution integrates methods such as keyword extraction, TF-IDF scoring, BERT embeddings, and transformer models for detailed text analysis and comparison. An iterative algorithm is also applied to improve the match between the resume and job description by adding missing keywords and rephrasing existing content. The code is not publicly available due to its potential for misuse however, I am open to sharing it with interested parties who can provide a compelling reason. 
+
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)](#)
+[![](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)](#)
+[![](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)](#)
+---
 ### Sentiment Analysis, Text Classification, and Topic Modelling Using Natural Language Processing (NLP) Techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
 
 In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
