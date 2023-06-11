@@ -1,4 +1,4 @@
-## Curated AI Projects (Machine Learning, Deep Learning, Computer Vision and NLP)
+## Selection of AI Projects in Machine Learning, Deep Learning, Computer Vision and NLP
 
 ---
 ### Diabetes Prediction Using Random Forest and RNN-LSTM with CDC Survey Data -- [[View Code](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)]
