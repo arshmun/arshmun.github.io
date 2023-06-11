@@ -36,14 +36,15 @@ In this project, I developed a proof-of-concept AI chatbot capable of answering 
 
 In this project, I leveraged popular computer vision tools, algorithms, and techniques to implement various tasks. These included face detection using the Haar cascade detector, image segmentation employing the R-CNN model, and object detection in images utilising both the default and tiny versions of YOLO.
 
-<p align="center">
-  <img src="images/ImgReg.png?raw=true"/>
-</p>
 
 [![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](#)
 [![](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)](#)
 [![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
+
+<p align="center">
+  <img src="images/ImgReg.png?raw=true"/>
+</p>
 
 ---
 ### Advanced Resume Optimisation Using Natural Language Processing and Machine Learning -- [[Request Code](mailto:amunif@outlook.com)]
@@ -59,6 +60,16 @@ This project involves the development of a sophisticated workflow that uses adva
 
 ---
 
+### Sentiment Analysis, Text Classification, and Topic Modelling Using Natural Language Processing (NLP) Techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
+
+In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
+
+[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
+
+---
+
 ### Image Generation with Generative Adversarial Network (GAN) --  [[View Code](https://colab.research.google.com/drive/14XIIth9H1xNRdXDW5V20G9cmZQwRaFkv?usp=sharing)]
 
 In this project, I delved into the realm of Generative Adversarial Networks, utilising the CIFAR-10 dataset to train my models. I fine tuned and implemented both discriminator and generator components, and incorporated procedures to visualise the results. Post-training, I used the trained generator to produce a set of fabricated images, demonstrating the power of GANs.
@@ -70,13 +81,9 @@ In this project, I delved into the realm of Generative Adversarial Networks, uti
 [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
 [![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
 
----
-### Sentiment Analysis, Text Classification, and Topic Modelling Using Natural Language Processing (NLP) Techniques -- [[View Code](https://colab.research.google.com/drive/1QT73I4Go8q1prt90v_V3K8dPCQecpZuQ?usp=sharing)]
-
-In this project, I delved into various NLP techniques to achieve effective sentiment analysis, text classification, and topic modelling. The sentiment analysis was conducted on a collection of both positive and negative movie reviews, while text classification was performed on a diverse assortment of newsgroup texts. Additionally, the topic modelling was designed to accommodate any two user-selected topics.
-
-[![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
-[![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
-[![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)](#)
+<p align="center">
+  <img src="images/train.jpg?raw=true"/>
+</p>
 
 ---
+
