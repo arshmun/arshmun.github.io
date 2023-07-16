@@ -54,7 +54,7 @@ In this project, I leveraged popular computer vision tools, algorithms, and tech
 ---
 ### Advanced Resume Optimisation Using Natural Language Processing and Machine Learning -- [[Request Code](mailto:amunif@outlook.com)]
 
-This project involves the development of a sophisticated workflow that uses advanced NLP and machine learning techniques to optimise resumes, making them more closely align with job descriptions. The solution integrates methods such as keyword extraction, TF-IDF scoring, BERT embeddings, and transformer models for detailed text analysis and comparison. An iterative algorithm is also applied to improve the match between the resume and job description by adding missing keywords and rephrasing existing content. The code is not publicly available due to its potential for misuse however, I am open to sharing it with interested parties who can provide a compelling reason. 
+This project involves the development of a sophisticated workflow that uses advanced NLP and machine learning techniques to optimise resumes, making them more closely align with job descriptions. The solution integrates methods such as keyword extraction, TF-IDF scoring, BERT embeddings, and transformer models for detailed text analysis and comparison. An iterative algorithm is also applied to improve the match between the resume and job description by adding missing keywords and rephrasing existing content. 
 
 [![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
 [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](#)
