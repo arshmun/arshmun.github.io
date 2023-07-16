@@ -18,6 +18,11 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-relat
 <!--[![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)-->
 <!-- [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#) -->
 
+<p align="center">
+  <img src="images/my_plot5.png?raw=true" width="425"/> <img src="images/my_plot6.png?raw=true" width="425"/>
+</p>
+
+
 ---
 
 ### MyGPT: A Simple AI Chatbot with Custom Knowledge Base Using OpenAI's GPT 3.5 model -- [[View Code](https://colab.research.google.com/drive/1HVHzCoDj3gmLwTlzjJ3W8ovHOC5nVavi?usp=sharing)]
