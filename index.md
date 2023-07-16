@@ -18,8 +18,8 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-relat
 <!--[![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)-->
 <!-- [![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](#) -->
 
-<p align="left">
-  <img src="images/my_plot5.png?raw=true" width="300"/><img src="images/my_plot6.png?raw=true" width="300"/>
+<p align="center">
+  <img src="images/my_plot5.png?raw=true" height = "280" width="280"/><img src="images/my_plot6.png?raw=true" height = "280" width="280"/>
 </p>
 
 
