@@ -1,7 +1,7 @@
 ## Selected Projects in Machine Learning, Deep Learning, Computer Vision and NLP
 
 ---
-### Dimensionality Reduction in Protein Molecular Simulations Data
+### Dimensionality Reduction in Protein Molecular Simulations Data -- [[Github Repo](https://github.com/arshmun/MSRDimRed/tree/main?tab=readme-ov-file)]
 Molecular dynamics (MD) simulations generate extensive biomolecular trajectory datasets across time. However, high dimensionality complicates extracting meaningful insights into relationships between protein structure, motion, and function. This project presents an automated unsupervised machine learning workflow to apply dimensionality reduction using PCA to uncover a protein's conformational dynamics.
 
 [![](https://img.shields.io/badge/-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)](#)
