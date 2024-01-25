@@ -1,6 +1,10 @@
 ## Selected Projects in Machine Learning, Deep Learning, Computer Vision and NLP
 
 ---
+### Dimensionality Reduction in Protein Molecular Simulations Data
+Molecular dynamics (MD) simulations generate extensive biomolecular trajectory datasets across time. However, high dimensionality complicates extracting meaningful insights into relationships between protein structure, motion, and function. This project presents an automated unsupervised machine learning workflow to apply dimensionality reduction using PCA to uncover a protein's conformational dynamics.
+
+
 ### Diabetes Prediction Using Random Forest and RNN-LSTM with CDC Survey Data -- [[View Code](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)]
 
 The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-related telephone survey conducted by the CDC. This dataset comprises responses from over 400,000 individuals, focusing on various health-related risk factors. My goal was to predict an individual's diabetes status based on these responses. I developed a comprehensive end-to-end workflow to estimate the prevalence of diabetes in individuals, utilizing both machine learning and deep learning techniques. 
