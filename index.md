@@ -12,7 +12,7 @@ Molecular dynamics (MD) simulations generate extensive biomolecular trajectory d
 [![](https://img.shields.io/badge/MASS-purple?style=flat-square&logo=#3776AB)](#)
 
 <p align="center">
-  <img src="images/ADK_C_alpha_image.jpg?raw=true" width="300"/> <img src="images/PC_Scores.jpg?raw=true" width="300"/> 
+  <img src="images/ADK_C_alpha_image.jpg?raw=true" width="250"/> <img src="images/PC_Scores.jpg?raw=true" width="250"/> 
 </p>
 
 ### Diabetes Prediction Using Random Forest and RNN-LSTM with CDC Survey Data -- [[View Code](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)]
