@@ -5,6 +5,11 @@
 Molecular dynamics (MD) simulations generate extensive biomolecular trajectory datasets across time. However, high dimensionality complicates extracting meaningful insights into relationships between protein structure, motion, and function. This project presents an automated unsupervised machine learning workflow to apply dimensionality reduction using PCA to uncover a protein's conformational dynamics.
 
 [![](https://img.shields.io/badge/-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)](#)
+[![](https://img.shields.io/badge/bio3D-orange?style=flat-square&logo=#3776AB)](#)
+[![](https://img.shields.io/badge/rioXDR-green?style=flat-square&logo=#3776AB)](#)
+[![](https://img.shields.io/badge/ggplot2-red?style=flat-square&logo=#3776AB)](#)
+[![](https://img.shields.io/badge/ggfortify-blue?style=flat-square&logo=#3776AB)](#)
+[![](https://img.shields.io/badge/MASS-purple?style=flat-square&logo=#3776AB)](#)
 
 <p align="center">
   <img src="images/ADK_C_alpha_image.jpg?raw=true" width="300"/> <img src="images/PC_Scores.jpg?raw=true" width="300"/> 
