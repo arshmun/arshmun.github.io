@@ -15,6 +15,8 @@ Molecular dynamics (MD) simulations generate extensive biomolecular trajectory d
   <img src="images/ADK_C_alpha_image.jpg?raw=true" width="250"/><img src="images/PC_Scores.jpg?raw=true" width="250"/> 
 </p>
 
+---
+
 ### Diabetes Prediction Using Random Forest and RNN-LSTM with CDC Survey Data -- [[View Code](https://colab.research.google.com/drive/1j8tg9IQpLnMZbguNvT715ACqKfhf1Edo?usp=sharing)]
 
 The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-related telephone survey conducted by the CDC. This dataset comprises responses from over 400,000 individuals, focusing on various health-related risk factors. My goal was to predict an individual's diabetes status based on these responses. I developed a comprehensive end-to-end workflow to estimate the prevalence of diabetes in individuals, utilizing both machine learning and deep learning techniques. 
@@ -34,7 +36,6 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-relat
 <p align="center">
   <img src="images/my_plot5.png?raw=true" width="250"/><img src="images/my_plot6.png?raw=true" width="250"/>
 </p>
-
 
 ---
 
